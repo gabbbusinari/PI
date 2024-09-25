@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "462412625436",
+    "firebase_url": "https://piibm-ed044-default-rtdb.firebaseio.com",
+    "project_id": "piibm-ed044",
+    "storage_bucket": "piibm-ed044.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462412625436:android:abbf4dea60b3362162d1d9",
+        "android_client_info": {
+          "package_name": "com.example.pi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpodb29MhNm7y_MoLL0tjfbjaIW8VdAWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
